@@ -7,4 +7,4 @@ Hellu, Here is a list of languages I used for this:
 |   1    | python     | \*.py     |
 |   2    | Javascript | \*.html   |
 
-*Note, I've embeeded js in html directly
+*Note, didnt want to create an extra *.js thats the way it is
