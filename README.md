@@ -4,7 +4,7 @@ Hellu, Here is a list of languages I used for this:
 
 | day(s) | language   | extention |
 |--------|------------|-----------|
-| 1,4,5,6,7| python     | \*.py     |
+| 1,4...14 python     | \*.py     |
 |   2    | Javascript | \*.html   |
 |   3    | Java       | \*.java   |
 
